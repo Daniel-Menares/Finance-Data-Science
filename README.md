@@ -8,7 +8,7 @@ Repositorio consolidado de proyectos, modelos cuantitativos y herramientas anal�
 
 ## 📂 Proyectos Incluidos
 
-### 1. [Optimización de Portafolios y Machine Learning (PROYECTO FINAL.ipynb)]
+### 1. [Optimización de Portafolios y Machine Learning (Analisis de Inversiones con Python.ipynb)]
 Desarrollo integral de un marco cuantitativo para gestión de activos, análisis de riesgo y predicción bursátil.
 
 * **Análisis de Riesgo y Rendimiento**: Rendimientos logarítmicos, matriz de correlación, asimetría, curtosis, VaR y CVaR.
